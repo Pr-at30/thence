@@ -1,4 +1,4 @@
-# Project Name
+# Brunel
 
 This is a frontend project made with React.js and Tailwind CSS.
 
